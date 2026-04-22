@@ -24,7 +24,4 @@ Designed a Swiggy-inspired backend architecture with RBAC for three user roles, 
 
 ## Connect
 
-- 📧 [jyotideveda02@gmail.com](mailto:jyotideveda02@gmail.com)
 - 💼 [linkedin.com/in/jyoti-deveda](https://www.linkedin.com/in/jyoti-deveda/)
-- 🐙 [github.com/jyoti-Deveda](https://github.com/jyoti-Deveda)
-- 📱 +91 88394 78280
