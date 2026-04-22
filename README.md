@@ -1,16 +1,30 @@
-# React + Vite
+# Jyoti Deveda — Backend Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Building scalable, high-performance systems with Node.js and PostgreSQL.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Backend Developer with hands-on production experience in microservices, API design, and data-driven applications. Currently working at GKM IT Pvt. Ltd., contributing to venture capital and fintech platforms serving real-world stakeholders.
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Languages:** JavaScript, TypeScript, SQL  
+**Backend:** Node.js, Express.js, NestJS, Jest  
+**Databases:** PostgreSQL, MongoDB, MySQL, Redis  
+**Tools:** Docker, Git, Postman, AWS SQS, DBeaver  
+**Concepts:** REST APIs, MVC Architecture, Database Design, Secure Coding, OOP
 
-## Expanding the ESLint configuration
+## Experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Backend Developer — GKM IT Pvt. Ltd.** _(April 2025 – Present)_  
+Working on production-grade platforms in the venture capital and fintech domains. Reduced API response times by 35–45%, built microservices handling large-scale data workflows, and developed rule-based engines processing 500+ daily transactions.
+
+**Backend Developer Intern — GKM IT Pvt. Ltd.** _(September 2024 – March 2025)_  
+Designed a Swiggy-inspired backend architecture with RBAC for three user roles, standardized 30+ internal APIs, and gained hands-on experience with Docker and Git workflows.
+
+## Connect
+
+- 📧 [jyotideveda02@gmail.com](mailto:jyotideveda02@gmail.com)
+- 💼 [linkedin.com/in/jyoti-deveda](https://www.linkedin.com/in/jyoti-deveda/)
+- 🐙 [github.com/jyoti-Deveda](https://github.com/jyoti-Deveda)
+- 📱 +91 88394 78280
