@@ -119,6 +119,15 @@ const PROJECTS = [
     live: null,
   },
   {
+    name: "DocAtDoor",
+    stack: ["React", "Node.js", "Express", "MongoDB", "Python", "scikit-learn"],
+    description:
+      "A doctor appointment booking system with an integrated ML-based disease prediction feature. Users can input symptoms to get disease predictions via a pretrained machine learning model, and book appointments accordingly.",
+    highlights: ["ML disease prediction", "Appointment booking", "Team project"],
+    github: "https://github.com/Jyoti-Deveda/DocAtDoor",
+    live: "",
+  },
+  {
     name: "Weather App",
     stack: ["HTML", "CSS", "JavaScript", "API"],
     description:
@@ -126,16 +135,7 @@ const PROJECTS = [
     highlights: ["Geolocation API", "Responsive UI", "Real-time data"],
     github: "https://github.com/Jyoti-Deveda/Weather-app",
     live: "https://get-the-weatherconditions.netlify.app/",
-  },
-  {
-    name: "Password Generator",
-    stack: ["HTML", "CSS", "JavaScript"],
-    description:
-      "Tool for generating strong, secure passwords with customizable length, character types, and a password strength indicator.",
-    highlights: ["Strength indicator", "Custom config", "Copy to clipboard"],
-    github: "https://github.com/Jyoti-Deveda/Password-Generator",
-    live: "https://generate-the-password.netlify.app/",
-  },
+  }
 ];
 
 const EDUCATION = [
